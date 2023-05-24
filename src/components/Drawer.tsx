@@ -158,7 +158,7 @@ const Drawer = ({
               <DrawerItem
                 icon={<FaDiscord />}
                 text="Discord"
-                href="https://discord.gg/Xnsbhg6Uvd"
+                href="https://discord.gg/pr4fvTGd"
                 target="_blank"
               />
             </Fragment>
@@ -166,7 +166,7 @@ const Drawer = ({
           <DrawerItem
             icon={<FaGithub />}
             text="GitHub"
-            href="https://github.com/Dogtiti/AutoGPT-Next-Web"
+            href="https://github.com/adminlove520/AutoGPT-Next-Web-1"
             target="_blank"
           />
           <DrawerItem

@@ -19,7 +19,7 @@ export const SorryDialog = ({ show, close }: SorryDialogProps) => {
           <br />
           <a
             className="link"
-            href="https://autogpt-next-web.gitbook.io/autogpt-next-web/"
+            href="https://github.com/adminlove520/AutoGPT-Next-Web-1"
             target="_blank"
             rel="noreferrer"
           >

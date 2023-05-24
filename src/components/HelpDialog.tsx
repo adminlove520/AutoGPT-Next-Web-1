@@ -15,7 +15,7 @@ export default function HelpDialog({
 
   return (
     <Dialog
-      header={`${t("welcome-to-AutoGPT-Next-Web")} 🤖`}
+      header={`${t("welcome-to-AutoGPT-CN")} 🤖`}
       isShown={show}
       close={close}
     >
@@ -39,7 +39,7 @@ export default function HelpDialog({
             <div
               className="cursor-pointer rounded-full bg-black/30 p-3 hover:bg-black/70"
               onClick={() =>
-                window.open("https://discord.gg/Xnsbhg6Uvd", "_blank")
+                window.open("https://discord.gg/pr4fvTGd", "_blank")
               }
             >
               <FaDiscord size={30} />
@@ -49,7 +49,7 @@ export default function HelpDialog({
             className="cursor-pointer rounded-full bg-black/30 p-3 hover:bg-black/70"
             onClick={() =>
               window.open(
-                "https://github.com/Dogtiti/AutoGPT-Next-Web",
+                "https://github.com/adminlove520/AutoGPT-Next-Web-1",
                 "_blank"
               )
             }
